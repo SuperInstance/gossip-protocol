@@ -1,0 +1,11 @@
+[package]
+name = "gossip-protocol"
+version = "0.1.0"
+edition = "2021"
+description = "Gossip protocol simulation: rumor spreading, anti-entropy, scuttlebutt, membership"
+license = "MIT"
+repository = "https://github.com/SuperInstance/gossip-protocol"
+keywords = ["gossip", "epidemic", "rumor", "distributed", "membership"]
+categories = ["algorithms", "simulation", "network-programming"]
+
+[dependencies]
